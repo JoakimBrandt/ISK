@@ -1,5 +1,8 @@
 # LINKS
 
+## COME UP WITH IDEA
+[Proccess of generating an idea](https://writing.wisc.edu/handbook/process/generatingideas/)
+
 ## ARTICLES
    
 [What is DDoS?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack)
