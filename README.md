@@ -15,4 +15,29 @@
 
 ## FORUMS 
 
-## MSIC
+## MISC
+
+## NOTES
+
+Regeringen -> Departement -> Myndigheter
+
+Vi vill finna ett utsatt/spännande departement och utforska dess myndigheter, sedan utföra forskning och jämföra två, eller flera, myndigheter och deras säkerhetsprotokoll & åtgärdsplaner. 
+
+* Justitiedepartementet
+* Utrikesdepartementet
+* Försvarsdepartementet
+* Socialdepartementet
+* Finansdepartementet
+* Utbildningsdepartementet
+* Miljödepartementet
+* Näringsdepartementet
+* Kulturdepartementet
+* Arbetsmarknadsdepartementet
+* Infrastrukturdepartementetn
+
+Lyckas argumentera för varför ett visst departement/myndighet är intressant för våran forskning
+
+## IDEAS / QUESTIONS
+
+"Jämförelse och analys av säkerhetsprotokoll och åtgärdsplaner bland svenska myndigheter"
+
