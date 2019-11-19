@@ -9,6 +9,16 @@
 
 [What is MTU?](https://www.imperva.com/blog/mtu-mss-explained/)
 
+[MSB informations- och säkerhetshandlingsplan 2019-2022](https://www.msb.se/RibData/Filer/pdf/28804.pdf)
+
+https://rib.msb.se/filer/pdf/28463.pdf
+
+https://rib.msb.se/filer/pdf/28822.pdf
+
+https://www.msb.se/sv/aktuellt/nyheter/2019/april/nastan-300-it-incidentrapporter-fran-statliga-myndigheter-2018--men-fler-kan-rapportera-mer/
+
+https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/hantering-och-forebyggande-av-it-incidenter---cert-se/
+
 ## SCIENTIFIC ARTICLES
 
 [Protection against DDoS via three-tier-network architecture](https://www.researchgate.net/profile/Akashdeep_Bhardwaj/publication/307435722_Three_Tier_Network_Architecture_to_Mitigate_DDoS_Attacks_on_Hybrid_Cloud_Environments/links/5a7fe7250f7e9be137c74f3b/Three-Tier-Network-Architecture-to-Mitigate-DDoS-Attacks-on-Hybrid-Cloud-Environments.pdf)
