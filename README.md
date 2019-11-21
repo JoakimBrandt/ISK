@@ -19,6 +19,8 @@ https://www.msb.se/sv/aktuellt/nyheter/2019/april/nastan-300-it-incidentrapporte
 
 https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/hantering-och-forebyggande-av-it-incidenter---cert-se/
 
+[Finns det informationssäkerhetskultur?](https://www.fiaewald.se/nationell-styrning/finns-det-en-informationssakerhetskultur/)
+
 ## SCIENTIFIC ARTICLES
 
 [Protection against DDoS via three-tier-network architecture](https://www.researchgate.net/profile/Akashdeep_Bhardwaj/publication/307435722_Three_Tier_Network_Architecture_to_Mitigate_DDoS_Attacks_on_Hybrid_Cloud_Environments/links/5a7fe7250f7e9be137c74f3b/Three-Tier-Network-Architecture-to-Mitigate-DDoS-Attacks-on-Hybrid-Cloud-Environments.pdf)
@@ -51,10 +53,10 @@ Vi vill finna ett utsatt/spännande departement och utforska dess myndigheter, s
 Lyckas argumentera för varför ett visst departement/myndighet är intressant för våran forskning
 
 ## IDEAS / QUESTIONS
+Fredric. Hypotes:
+* Ta en myndighet med 0 incidenter en annan med mest incidenter från MSB rapportering. Myndigheten med 0 incidenter har bättre kultur en den andra. Verifiera detta genom en survey och intervjuer hos de två företagen.
 
-"Jämförelse och analys av informationssäkerhetskultur och åtgärdsplaner bland svenska myndigheter"
-
-"Företag, i den offentliga sektorn, med rikare informationssäkerhetskultur löper mindre risk för att bli utsatta för hot, skador och förlust av data"
+"Jämförelse och analys av säkerhetsprotokoll och åtgärdsplaner bland svenska myndigheter"
 
 * Varför har enbart vissa myndigheter blivit utsatta för anfall medans andra inte har det?
 
@@ -86,6 +88,8 @@ http://hj.diva-portal.org/smash/resultList.jsf?aq=%5B%5B%7B%22personId%22%3A%22H
 
 
 ## CONFERENCES 
+
+[Offentlig sektor 2019 konferens](https://www.informationssakerhet.se/kompetensutveckling/konferensen-informationssakerhet-for-offentlig-sektor-2019/)
 
 https://www.informationssakerhet.se/siteassets/konferensen/konferensen-2019/18---11.35-j.-turell-praktisk-incidentanalys.pdf
 
