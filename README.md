@@ -52,7 +52,9 @@ Lyckas argumentera för varför ett visst departement/myndighet är intressant f
 
 ## IDEAS / QUESTIONS
 
-"Jämförelse och analys av säkerhetsprotokoll och åtgärdsplaner bland svenska myndigheter"
+"Jämförelse och analys av informationssäkerhetskultur och åtgärdsplaner bland svenska myndigheter"
+
+"Företag, i den offentliga sektorn, med rikare informationssäkerhetskultur löper mindre risk för att bli utsatta för hot, skador och förlust av data"
 
 * Varför har enbart vissa myndigheter blivit utsatta för anfall medans andra inte har det?
 
