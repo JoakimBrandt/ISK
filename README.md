@@ -51,3 +51,8 @@ Lyckas argumentera för varför ett visst departement/myndighet är intressant f
 
 "Jämförelse och analys av säkerhetsprotokoll och åtgärdsplaner bland svenska myndigheter"
 
+
+## DATABASES AND OTHER DATA
+
+http://hj.diva-portal.org/smash/resultList.jsf?aq=%5B%5B%7B%22personId%22%3A%22Hoda%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&af=%5B%5D&query=&language=sv&dswid=-1596
+
