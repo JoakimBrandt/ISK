@@ -54,8 +54,36 @@ Lyckas argumentera för varför ett visst departement/myndighet är intressant f
 
 "Jämförelse och analys av säkerhetsprotokoll och åtgärdsplaner bland svenska myndigheter"
 
+* Varför har enbart vissa myndigheter blivit utsatta för anfall medans andra inte har det?
+
+* Vad särskiljer dom olika myndigheterna åt?
+
+* Kontakta myndigheter som inte rapporterat in anfall och gör en profilering av deras åtgärdsplaner och säkerhetsprotokoll/planer
+
+* Använda konferensen informationssäkerhet för offentlig sektor till att göra en praktisk incidentanalys för att förstå samband mellan orsakssamband mellan olika attacker på IT-avdelningarna
+
+* Undersöka informationssäkerhetskulturen på kontoren bland myndigheter i den offentliga sektorn
+
+* Gör ett förarbete där man plockar ut:
+
+- Ett företag som har rapporterat in incidenter till incidentrapporten
+- Ett företag som inte har rapporterat in några incidenter alls (under 2018)
+- Gör en utförlig analys av deras informationssäkerhetskulturer på företaget och undersök bakomliggande faktorer och samband/icke-samband mellan företagens kulturer och policies.
+
+
+## METHODS
+
+* Survey
+* Interviews with IT administrators and security managers, but also randomly selected employees
+* 
+
 
 ## DATABASES AND OTHER DATA
 
 http://hj.diva-portal.org/smash/resultList.jsf?aq=%5B%5B%7B%22personId%22%3A%22Hoda%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&af=%5B%5D&query=&language=sv&dswid=-1596
+
+
+## CONFERENCES 
+
+https://www.informationssakerhet.se/siteassets/konferensen/konferensen-2019/18---11.35-j.-turell-praktisk-incidentanalys.pdf
 
