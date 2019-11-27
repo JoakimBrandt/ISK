@@ -27,8 +27,6 @@ References ska helst vara peer-reviewed & vetenskapligt bundet, helst inte äldr
 
 ## ARTICLES
    
-[What is DDoS?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack)
-
 [What is MTU?](https://www.imperva.com/blog/mtu-mss-explained/)
 
 [MSB informations- och säkerhetshandlingsplan 2019-2022](https://www.msb.se/RibData/Filer/pdf/28804.pdf)
@@ -44,8 +42,6 @@ References ska helst vara peer-reviewed & vetenskapligt bundet, helst inte äldr
 [Finns det informationssäkerhetskultur?](https://www.fiaewald.se/nationell-styrning/finns-det-en-informationssakerhetskultur/)
 
 ## SCIENTIFIC ARTICLES
-
-[Protection against DDoS via three-tier-network architecture](https://www.researchgate.net/profile/Akashdeep_Bhardwaj/publication/307435722_Three_Tier_Network_Architecture_to_Mitigate_DDoS_Attacks_on_Hybrid_Cloud_Environments/links/5a7fe7250f7e9be137c74f3b/Three-Tier-Network-Architecture-to-Mitigate-DDoS-Attacks-on-Hybrid-Cloud-Environments.pdf)
 
 [Mäta Informationssäkerhetskultur 2018](http://www.diva-portal.se/smash/get/diva2:1238044/FULLTEXT01.pdf)
 
