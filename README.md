@@ -33,13 +33,13 @@ References ska helst vara peer-reviewed & vetenskapligt bundet, helst inte äldr
 
 [MSB informations- och säkerhetshandlingsplan 2019-2022](https://www.msb.se/RibData/Filer/pdf/28804.pdf)
 
-https://rib.msb.se/filer/pdf/28463.pdf
+[Årsrapport MSB 2017](https://rib.msb.se/filer/pdf/28463.pdf)
 
-https://rib.msb.se/filer/pdf/28822.pdf
+[Årsrapport MSB 2018](https://rib.msb.se/filer/pdf/28822.pdf)
 
-https://www.msb.se/sv/aktuellt/nyheter/2019/april/nastan-300-it-incidentrapporter-fran-statliga-myndigheter-2018--men-fler-kan-rapportera-mer/
+[300 it-incidenter från statliga myndigheter - MSB](https://www.msb.se/sv/aktuellt/nyheter/2019/april/nastan-300-it-incidentrapporter-fran-statliga-myndigheter-2018--men-fler-kan-rapportera-mer/)
 
-https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/hantering-och-forebyggande-av-it-incidenter---cert-se/
+[Förebyggande av it-incidenter - MSB](https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/hantering-och-forebyggande-av-it-incidenter---cert-se/)
 
 [Finns det informationssäkerhetskultur?](https://www.fiaewald.se/nationell-styrning/finns-det-en-informationssakerhetskultur/)
 
