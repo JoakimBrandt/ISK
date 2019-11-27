@@ -2,8 +2,8 @@
 
 Nästa onsdag presentera vårat arbete:
 
-* Introduction                                     |
-* Background                                       | Main focus
+* Introduction(hypotes och problem)                |
+* Background(ISkultur, MSBrapporter)               | Main focus
 * Aim and objectives                               |
 
 * Some suggestion on how to proceed (method)       |
