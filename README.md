@@ -77,6 +77,7 @@ Vi vill finna ett utsatt/spännande departement och utforska dess myndigheter, s
 Lyckas argumentera för varför ett visst departement/myndighet är intressant för våran forskning
 
 ## IDEAS / QUESTIONS
+<details>
 Fredric. Hypotes:
 * Ta en myndighet med 0 incidenter en annan med mest incidenter från MSB rapportering. Myndigheten med 0 incidenter har bättre kultur en den andra. Verifiera detta genom en survey och intervjuer hos de två företagen.
 
@@ -105,19 +106,16 @@ Hur mycket anmäler Håkan när det gäller incidenter
 Fredrik Karlsson kulturbok
 
 Metoder för att kvantifiera kultur
-
+</details>
 
 ## METHODS
 
 * Survey
 * Interviews with IT administrators and security managers, but also randomly selected employees
-* 
-
 
 ## DATABASES AND OTHER DATA
 
 http://hj.diva-portal.org/smash/resultList.jsf?aq=%5B%5B%7B%22personId%22%3A%22Hoda%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&af=%5B%5D&query=&language=sv&dswid=-1596
-
 
 ## CONFERENCES 
 
