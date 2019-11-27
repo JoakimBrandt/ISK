@@ -14,6 +14,11 @@ Rapporten ska vara 3-4 sidor av text
 Presentationen ska vara cirka 10 minuter
 References ska helst vara peer-reviewed & vetenskapligt bundet, helst inte äldre än 5 år 
 
+# IS-Culture
+[Mäta Informationssäkerhetskultur 2018](http://www.diva-portal.se/smash/get/diva2:1238044/FULLTEXT01.pdf)
+
+[IS-kultur-pp-konferens](https://www.informationssakerhet.se/siteassets/konferensen/konferensen-2019/18---09.45--t.-ander---informationssakerhetskultur.pdf)
+
 
 # LINKS
 
