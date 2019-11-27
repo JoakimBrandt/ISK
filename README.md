@@ -58,6 +58,7 @@ References ska helst vara peer-reviewed & vetenskapligt bundet, helst inte äldr
 
 ## NOTES
 
+<details>
 Regeringen -> Departement -> Myndigheter
 
 Vi vill finna ett utsatt/spännande departement och utforska dess myndigheter, sedan utföra forskning och jämföra två, eller flera, myndigheter och deras säkerhetsprotokoll & åtgärdsplaner. 
@@ -75,6 +76,7 @@ Vi vill finna ett utsatt/spännande departement och utforska dess myndigheter, s
 * Infrastrukturdepartementetn
 
 Lyckas argumentera för varför ett visst departement/myndighet är intressant för våran forskning
+</details>
 
 ## IDEAS / QUESTIONS
 <details>
