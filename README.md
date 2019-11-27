@@ -1,3 +1,20 @@
+# SISTA MOMENTEN
+
+Nästa onsdag presentera vårat arbete:
+
+* Introduction                                     |
+* Background                                       | Main focus
+* Aim and objectives                               |
+
+* Some suggestion on how to proceed (method)       |
+* Some speculation on what the results could be    |  Shorter description
+
+Ta emot feedback och skicka feedback till 2 andra grupper och sen lämna in final report senast 12/1 2020
+Rapporten ska vara 3-4 sidor av text
+Presentationen ska vara cirka 10 minuter
+References ska helst vara peer-reviewed & vetenskapligt bundet, helst inte äldre än 5 år 
+
+
 # LINKS
 
 ## COME UP WITH IDEA
