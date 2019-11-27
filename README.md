@@ -76,6 +76,14 @@ Fredric. Hypotes:
 - Ett företag som inte har rapporterat in några incidenter alls (under 2018)
 - Gör en utförlig analys av deras informationssäkerhetskulturer på företaget och undersök bakomliggande faktorer och samband/icke-samband mellan företagens kulturer och policies.
 
+Vad är det dom gör för skillnad i utbildningsdepartementet som det går bra för, gentemot dom som det går dåligt för.
+
+Hur mycket anmäler Håkan när det gäller incidenter 
+
+Fredrik Karlsson kulturbok
+
+Metoder för att kvantifiera kultur
+
 
 ## METHODS
 
